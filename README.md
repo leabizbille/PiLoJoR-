@@ -4,3 +4,8 @@ Objectif :  L'objectif principal de Emobot est de développer une compréhension
 
 * **La Présentation** : https://docs.google.com/presentation/d/1kxaBjUozHUTgMbr8JZmA9hVGgcq8N6HN3E-68FjXzKM/edit#slide=id.p
 * **Documentation** : https://github.com/leabizbille/PiLoJoR-/blob/main/projet_emotionV4.pdf
+
+* Détection des émotions sur un flux Webcam :
+    *  Entraînement d'un modèle de deep learning avec le dataset FER2013 :
+    *  Utilisation de la webcam comme outil de capture : 
+ 
